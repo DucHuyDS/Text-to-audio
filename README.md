@@ -1,3 +1,9 @@
+# Prepare Python running environment
+```python
+pip install poetry
+poetry install
+```
+
 
 ## Download checkpoints and dataset
 1. Download checkpoints from Google Drive: [link](https://drive.google.com/file/d/1T6EnuAHIc8ioeZ9kB1OZ_WGgwXAVGOZS/view?usp=drive_link). The checkpoints including pretrained VAE, AudioMAE, CLAP, 16kHz HiFiGAN, and 48kHz HiFiGAN.
