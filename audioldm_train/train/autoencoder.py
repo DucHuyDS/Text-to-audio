@@ -1,6 +1,3 @@
-# Author: Haohe Liu
-# Email: haoheliu@gmail.com
-# Date: 11 Feb 2023
 
 import sys
 
